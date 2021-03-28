@@ -1,0 +1,34 @@
+---
+title: "GFO604 Procesamiento de datos geográficos"
+description: |
+  Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+# Descripción
+Este es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación [R](https://www.r-project.org/). Se imparte en la [Escuela de Geografía](https://www.geografia.fcs.ucr.ac.cr/) de la [Universidad de Costa Rica](https://www.ucr.ac.cr/).
+
+Se estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos adquiridos. No se requieren conocimientos previos en programación de computadoras. 
+El curso forma parte del Plan de Estudios de Bachillerato y Licenciatura en Geografía de la Universidad de Costa Rica que entró en vigencia en 2019. Se impartió por primera vez en el primer ciclo lectivo de 2020.
+
+# Versión más reciente del curso
+* [Primer ciclo lectivo 2021 (en desarrollo)](https://gf0604-procesamientodatosgeograficos.github.io/2021i/).
+
+# Versiones anteriores del curso
+* [Primer ciclo lectivo 2020](https://geoprocesamiento-2020i.github.io/)
+
+# Otros cursos
+* [PF0953 Programación geoespacial en R (Maestría Académica en Gestión Integrada del Recurso Hídrico)](https://pf0953-programaciongeoespacialr-2020.github.io/)
+* [TPB708 Programación de aplicaciones en sistemas de información geográfica (Maestría en Sistemas de información Geográfica y Teledetección)](https://github.com/tpb708-programacionsig-2020)
+* [TPB729 Desarrollo de sistemas de información geográfica en la Web (Maestría en Sistemas de información Geográfica y Teledetección)](https://tpb729-desarrollosigweb-2021.github.io/)

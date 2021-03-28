@@ -1,0 +1,24 @@
+name: "gf0604-procesamientodatosgeograficos"
+title: "GF0604 Procesamiento de datos geograficos"
+description: |
+  Curso de la Escuela de Geografia de la Universidad de Costa Rica.
+output_dir: "docs"
+theme: theme.css
+navbar:
+  left:
+    - icon: fab fa-github
+      href: "https://github.com/gf0604-procesamientodatosgeograficos/"  
+    - icon: fab fa-youtube
+      href: "https://www.youtube.com/"      
+  right:
+    - text: "Escuela de Geografia"
+      href: "https://www.geografia.fcs.ucr.ac.cr/"            
+    - text: "Universidad de Costa Rica"
+      href: "https://www.ucr.ac.cr/"
+creative_commons: CC BY-SA
+repository_url: https://github.com/gf0604-procesamientodatosgeograficos/
+lang: es
+output:
+  distill::distill_article:
+    toc: true
+    toc_float: true

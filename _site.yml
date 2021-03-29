@@ -1,7 +1,7 @@
 name: "gf0604-procesamientodatosgeograficos"
 title: "GF0604 Procesamiento de datos geograficos"
 description: |
-  Curso de la Escuela de Geografia de la Universidad de Costa Rica.
+  Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica.
 output_dir: "docs"
 theme: theme.css
 navbar:

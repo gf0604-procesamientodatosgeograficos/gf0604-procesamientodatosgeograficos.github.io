@@ -1,5 +1,10 @@
 ---
 title: "GFO604 Procesamiento de datos geográficos"
+author: 
+- name: Manuel Vargas
+  url: https://github.com/mfvargas
+  affiliation: Universidad de Costa Rica
+  affiliation_url: https://www.ucr.ac.cr/
 description: |
   Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica.
 site: distill::distill_website

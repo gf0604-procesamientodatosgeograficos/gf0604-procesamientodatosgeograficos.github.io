@@ -27,10 +27,10 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 Se estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos adquiridos. No se requieren conocimientos previos en programación de computadoras. 
 El curso forma parte del Plan de Estudios de Bachillerato y Licenciatura en Geografía de la Universidad de Costa Rica que entró en vigencia en 2019. Se impartió por primera vez en el primer ciclo lectivo de 2020.
 
-# Versión más reciente del curso
+# Versión más reciente
 * [Primer ciclo lectivo 2021 (en desarrollo)](https://gf0604-procesamientodatosgeograficos.github.io/2021i/).
 
-# Versiones anteriores del curso
+# Versiones anteriores
 * [Primer ciclo lectivo 2020](https://geoprocesamiento-2020i.github.io/)
 
 # Otros cursos

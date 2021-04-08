@@ -8,8 +8,6 @@ navbar:
   left:
     - icon: fab fa-github
       href: "https://github.com/gf0604-procesamientodatosgeograficos/"  
-    - icon: fab fa-youtube
-      href: "https://www.youtube.com/"      
   right:
     - text: "Escuela de Geografia"
       href: "https://www.geografia.fcs.ucr.ac.cr/"            

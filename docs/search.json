@@ -1,8 +1,16 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-03-27T13:52:52-06:00"
+    },
+    {
       "path": "index.html",
-      "title": "GFO604 Procesamiento de datos geográficos",
+      "title": "GF0604 Procesamiento de datos geográficos",
       "description": "Curso GF0604 Procesamiento de datos geográficos. Escuela de Geografía, Universidad de Costa Rica.\n",
       "author": [
         {
@@ -10,8 +18,8 @@
           "url": "https://github.com/mfvargas"
         }
       ],
-      "contents": "\r\n\r\nContents\r\nDescripción\r\nVersión más reciente\r\nVersiones anteriores\r\nOtros cursos\r\n\r\nDescripción\r\nEste es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación R. Se imparte en la Escuela de Geografía de la Universidad de Costa Rica.\r\nSe estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos adquiridos. No se requieren conocimientos previos en programación de computadoras.\r\nEl curso forma parte del Plan de Estudios de Bachillerato y Licenciatura en Geografía de la Universidad de Costa Rica que entró en vigencia en 2019. Se impartió por primera vez en el primer ciclo lectivo de 2020.\r\nVersión más reciente\r\nPrimer ciclo lectivo 2021 (en desarrollo)\r\nVersiones anteriores\r\nPrimer ciclo lectivo 2020\r\nOtros cursos\r\nPF0953 Programación geoespacial en R (Maestría Académica en Gestión Integrada del Recurso Hídrico)\r\nTPB708 Programación de aplicaciones en sistemas de información geográfica (Maestría en Sistemas de información Geográfica y Teledetección)\r\nTPB729 Desarrollo de sistemas de información geográfica en la Web (Maestría en Sistemas de información Geográfica y Teledetección)\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-07T21:39:19-06:00"
+      "contents": "\n\nContents\nDescripción\nVersión más reciente\nVersiones anteriores\nOtros cursos\n\nDescripción\nEste es un curso introductorio al procesamiento de datos geográficos\nmediante el lenguaje de programación R. Se imparte en la Escuela de Geografía de\nla Universidad de Costa Rica.\nSe estudian los fundamentos de R, sus bibliotecas geoespaciales y sus\ncapacidades para generar gráficos estadísticos. Se utilizan herramientas\npara facilitar la reproducibilidad de los procedimientos y para su\ncomunicación a través de la Internet y otros medios.\nEl enfoque del curso es teórico-práctico, con lecciones teóricas\ncombinadas con ejercicios de programación en los cuales los estudiantes\naplican en diversos escenarios de procesamiento de datos los\nconocimientos y habilidades aprendidas. No se requiere de experiencia\nprevia en programación de computadoras.\nEl curso forma parte del Plan de Estudios de Bachillerato y\nLicenciatura en Geografía de la Universidad de Costa Rica que entró en\nvigencia en 2019. Se impartió por primera vez en el primer ciclo lectivo\nde 2020.\nVersión más reciente\nPrimer\nciclo lectivo 2022 (en desarrollo)\nVersiones anteriores\nPrimer\nciclo lectivo 2021\nPrimer ciclo\nlectivo 2020\nOtros cursos\nPF-3311\nCiencia de datos geoespaciales (Programa de Posgrado en Computación e\nInformática)\nTPB728O\nProgramación de aplicaciones geoespaciales en R (Maestría en Sistemas de\ninformación Geográfica y Teledetección)\nPF0953\nProgramación geoespacial en R (Maestría Académica en Gestión Integrada\ndel Recurso Hídrico)\nTPB708\nProgramación de aplicaciones en sistemas de información geográfica en\nPython (Maestría en Sistemas de información Geográfica y\nTeledetección)\nTPB729\nDesarrollo de sistemas de información geográfica en la Web (Maestría en\nSistemas de información Geográfica y Teledetección)\n\n\n\n",
+      "last_modified": "2022-03-27T13:52:52-06:00"
     }
   ],
   "collections": []

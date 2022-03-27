@@ -1,5 +1,5 @@
 ---
-title: "GFO604 Procesamiento de datos geográficos"
+title: "GF0604 Procesamiento de datos geográficos"
 author: 
 - name: Manuel Vargas
   url: https://github.com/mfvargas
@@ -24,17 +24,22 @@ knitr::opts_chunk$set(echo = FALSE)
 # Descripción
 Este es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación [R](https://www.r-project.org/). Se imparte en la [Escuela de Geografía](https://www.geografia.fcs.ucr.ac.cr/) de la [Universidad de Costa Rica](https://www.ucr.ac.cr/).
 
-Se estudian los fundamentos del lenguaje R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos. El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos adquiridos. No se requieren conocimientos previos en programación de computadoras.
+Se estudian los fundamentos de R, sus bibliotecas geoespaciales y sus capacidades para generar gráficos estadísticos. Se utilizan herramientas para facilitar la reproducibilidad de los procedimientos y para su comunicación a través de la Internet y otros medios.
+
+El enfoque del curso es teórico-práctico, con lecciones teóricas combinadas con ejercicios de programación en los cuales los estudiantes aplican en diversos escenarios de procesamiento de datos los conocimientos y habilidades aprendidas. No se requiere de experiencia previa en programación de computadoras.
 
 El curso forma parte del Plan de Estudios de Bachillerato y Licenciatura en Geografía de la Universidad de Costa Rica que entró en vigencia en 2019. Se impartió por primera vez en el primer ciclo lectivo de 2020.
 
 # Versión más reciente
-* [Primer ciclo lectivo 2021 (en desarrollo)](https://gf0604-procesamientodatosgeograficos.github.io/2021i/)
+* [Primer ciclo lectivo 2022 (en desarrollo)](https://gf0604-procesamientodatosgeograficos.github.io/2022-i/)
 
 # Versiones anteriores
+* [Primer ciclo lectivo 2021](https://gf0604-procesamientodatosgeograficos.github.io/2021i/)
 * [Primer ciclo lectivo 2020](https://geoprocesamiento-2020i.github.io/)
 
 # Otros cursos
+* [PF-3311 Ciencia de datos geoespaciales (Programa de Posgrado en Computación e Informática)](https://pf3311-cienciadatosgeoespaciales.github.io/)
+* [TPB728O Programación de aplicaciones geoespaciales en R (Maestría en Sistemas de información Geográfica y Teledetección)](https://tpb728o-programaciongeoespacialr.github.io/)
 * [PF0953 Programación geoespacial en R (Maestría Académica en Gestión Integrada del Recurso Hídrico)](https://pf0953-programaciongeoespacialr-2020.github.io/)
-* [TPB708 Programación de aplicaciones en sistemas de información geográfica (Maestría en Sistemas de información Geográfica y Teledetección)](https://github.com/tpb708-programacionsig-2020)
+* [TPB708 Programación de aplicaciones en sistemas de información geográfica en Python (Maestría en Sistemas de información Geográfica y Teledetección)](https://github.com/tpb708-programacionsig-2020)
 * [TPB729 Desarrollo de sistemas de información geográfica en la Web (Maestría en Sistemas de información Geográfica y Teledetección)](https://tpb729-desarrollosigweb-2021.github.io/)
